@@ -1,5 +1,7 @@
 ### Hi, I'm Julian.
 
+[![Julian's github stats](https://github-readme-stats.vercel.app/api?username=juliancstrocodes&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌱 I'm currently working on:
 1. A bachelor's in Computer Science and Management in Finance.
 2. Social media application for students that enjoy living in the moment.
