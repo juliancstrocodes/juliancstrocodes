@@ -1,6 +1,12 @@
 ### Hi, I'm Julian.
 
+My github history, or lack thereof 😅 
+
 [![Julian's github stats](https://github-readme-stats.vercel.app/api?username=juliancstrocodes&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+My favorite languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancstrocodes)](https://github.com/juliancstrocodes/github-readme-stats)
 
 ## 🌱 I'm currently working on:
 1. A bachelor's in Computer Science and Management in Finance.
