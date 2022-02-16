@@ -27,3 +27,6 @@ An internship or work opportunity in the Greater Boston area.
 - [LinkedIn](https://www.linkedin.com/in/julian-castro-7950aa1a7/)
 - [Medium](https://medium.com/@jcast5008)
 - Email: castrojv@bc.edu
+
+### Read my most recent Medium article:
+<a target="_blank" href="https://medium.com/@jcast5008/using-rest-apis-with-react-native-google-places-autocomplete-library-requesturl-54d50c9cbd24" alt="Recent Article 0">
