@@ -7,7 +7,9 @@
 
 # 🤔 What are my skills?
 JavaScript; Node.js; React.js; React Native; Google Cloud.
+
 _Familiar with_: Java, C.
+
 _In the process of learning_: Machine Learning.
 
 # 🔭 Current looking for:
