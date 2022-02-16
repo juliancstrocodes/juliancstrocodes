@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Julian.
 
-<!--
-**juliancstrocodes/juliancstrocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 I'm currently working on:
+1. A bachelor's in Computer Science and Management in Finance.
+2. Social media application for students that enjoy living in the moment.
+3. A study software based on a Google Chrome extension.
 
-Here are some ideas to get you started:
+# 🤔 What are my skills?
+JavaScript; Node.js; React.js; React Native; Google Cloud.
+_Familiar with_: Java, C.
+_In the process of learning_: Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔭 Current looking for:
+An internship or work opportunity in the Greater Boston area.
+
