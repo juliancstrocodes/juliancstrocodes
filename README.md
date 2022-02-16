@@ -29,4 +29,4 @@ An internship or work opportunity in the Greater Boston area.
 - Email: castrojv@bc.edu
 
 ### Read my most recent Medium article:
-<a target="_blank" href="https://medium.com/@jcast5008/using-rest-apis-with-react-native-google-places-autocomplete-library-requesturl-54d50c9cbd24"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jcast5008/1" alt="Recent Article 1">
+<a target="_blank" href="https://medium.com/@jcast5008/using-rest-apis-with-react-native-google-places-autocomplete-library-requesturl-54d50c9cbd24"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jcast5008/0" alt=" Recent Article">
