@@ -16,7 +16,7 @@ My Leetcode stats,... working on it :)
 1. A bachelor's in Computer Science and Management in Finance.
 2. Social media application for students that enjoy living in the moment.
 3. A study software based on a Google Chrome extension.
-4. Research assistant for deep learning project at Boston College.
+4. Research assistant for machine learning project at Boston College.
 
 ## 🤔 What are my skills?
 JavaScript; Node.js; React.js; React Native; Google Cloud.
