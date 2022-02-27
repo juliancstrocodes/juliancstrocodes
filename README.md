@@ -25,13 +25,9 @@ _Familiar with_: Java, C.
 
 _In the process of learning_: Machine Learning.
 
-## 🔭 Current looking for:
-An internship or work opportunity in the Greater Boston area.
-
 ## 📫 How to find me:
 - [LinkedIn](https://www.linkedin.com/in/julian-castro-7950aa1a7/)
 - [Medium](https://medium.com/@jcast5008)
+<a target="_blank" href="https://medium.com/@jcast5008/using-rest-apis-with-react-native-google-places-autocomplete-library-requesturl-54d50c9cbd24"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jcast5008/0" alt=" Recent Article">
 - Email: castrojv@bc.edu
 
-### Read my most recent Medium article:
-<a target="_blank" href="https://medium.com/@jcast5008/using-rest-apis-with-react-native-google-places-autocomplete-library-requesturl-54d50c9cbd24"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jcast5008/0" alt=" Recent Article">
