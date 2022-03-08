@@ -1,6 +1,5 @@
 ### Hi, I'm Julian.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancstrocodes)](https://github.com/juliancstrocodes/github-readme-stats)
 
 ## 🌱 I'm currently working on:
 1. A bachelor's in Computer Science and Management in Finance.
