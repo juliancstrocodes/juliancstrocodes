@@ -1,4 +1,4 @@
-### Hi, I'm [Julian](https://www.linkedin.com/in/julian-castro-7950aa1a7/). 
+### Hi, I'm Julian
 
 castrojv@bc.edu
 
