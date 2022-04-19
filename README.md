@@ -2,5 +2,5 @@
 
 castrojv@bc.edu
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancstrocodes)](https://github.com/juliancstrocodes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancstrocodes&layout=compact)](https://github.com/juliancstrocodes/github-readme-stats)
 
